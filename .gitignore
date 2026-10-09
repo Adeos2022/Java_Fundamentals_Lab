@@ -1,0 +1,20 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+
+# Build output
+build/
+out/
+target/
+
+# Temporary files
+*.tmp
